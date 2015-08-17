@@ -1,0 +1,15 @@
+{
+  "name": "menu-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:less": "less-watch-compiler"
+  },
+  "author": "Stoyan",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^3.12.2",
+    "less-watch-compiler": "^1.14.6"
+  }
+}
